@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Tecnologias 👨‍💻
+## 👨‍💻
 <div style = "display: inline_block"></br>
   <img align = "center" alt = "RUBY" src = "https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
     <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
