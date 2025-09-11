@@ -1,13 +1,108 @@
-### Hi there 👋
-## 👨‍💻
-<div style = "display: inline_block"></br>
-  <img align = "center" alt = "RUBY" src = "https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-    <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-      <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img align = "center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-              <img align = "center" alt = "JAVASCRIPT" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-                <img align = "center" alt = "JAVASCRIPT" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+## 👨‍💻 Alex Moura
+**`Software Developer`**
 
+---
+### Linguagens e Tecnologias          
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+  <img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+  <img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+  <img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<!-- 
+  <img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+  <img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+  
+  <img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+-->
+  
+  <img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+  
+  <img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+  
+  <img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 
 </div>
