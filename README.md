@@ -2,7 +2,7 @@
 **`software engineer`**
 
 ---
-### Linguagens e Tecnologias          
+### languages ​​and tools
 <img 
   align="left" 
   alt="HTML"
