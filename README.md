@@ -1,5 +1,5 @@
 ## 👨‍💻 Alex Moura
-**`Software Developer`**
+**`software engineer`**
 
 ---
 ### Linguagens e Tecnologias          
